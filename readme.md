@@ -71,9 +71,11 @@ We borrow code from
  - Face alignment: https://gist.github.com/lzhbrian/bde87ab23b499dd02ba4f588258f57d5
 
 
-##Citation
 
-If you use this code for your research, please cite our paper. [StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer]()
+## Citation
+
+If you use this code for your research, please cite our paper.  
+[StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer]()
 
 '''
 
