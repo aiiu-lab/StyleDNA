@@ -37,7 +37,7 @@ We provide a Jupyter notebook version running on [Google Colab](https://colab.re
 
 #### Pretrained Weights
 
-Download all the pretrained model weights and put in *./pretrained_model/*
+Download all the pretrained model weights and put them in *./pretrained_model/*
 
 #### Inferencing
 
