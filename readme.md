@@ -11,7 +11,7 @@ This is the official repository of "[StyleDNA: A High-Fidelity Age and Gender Aw
 - Linux or macOS
 - Python3
 - PyTorch == 1.9.0+cu111
-- dlib ==19.22.1
+- dlib == 19.22.1
 
 #### Pretrained Model Weights
 
@@ -29,7 +29,7 @@ This is the official repository of "[StyleDNA: A High-Fidelity Age and Gender Aw
 
 #### Inference Notebook
 
-We provide a Jupyter notebook version running on [Google Colab]() for fast inferecing.
+We provide a Jupyter notebook version running on [Google Colab](https://colab.research.google.com/drive/1FHf5ftbYtAfvODEqj5lp-S1cir44UniT?usp=sharing) for fast inferecing.
 
 
 
