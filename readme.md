@@ -61,7 +61,7 @@ We borrow code from
   Copyright (c) 2020 Elad Richardson, Yuval Alaluf  
   License (MIT) https://github.com/eladrich/pixel2style2pixel/blob/master/LICENSE  
 
- - InsightFace_Pytorch: https://github.com/TreB1eN/InsightFace_Pytorch
+ - InsightFace_Pytorch: https://github.com/TreB1eN/InsightFace_Pytorch  
   Copyright (c) 2018 TreB1eN  
   License (MIT) https://github.com/TreB1eN/InsightFace_Pytorch/blob/master/LICENSE  
 
