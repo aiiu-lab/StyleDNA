@@ -78,6 +78,11 @@ If you use this code for your research, please cite our paper.
 [StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer]()
 
 '''
-
+@inproceedings{lin2021styledna,
+  title={StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer},
+  author={Lin, Che-Hsien and Chen, Hung-Chun and Cheng, Li-Chen and Hsu, Shu-Chuan and Chen, Jun-Cheng and Wang, Chih-Yu},
+  booktitle={Proceedings of the IEEE International Conference on Automatic Face and Gesture Recognition (FG)},
+  year={2021}
+}
 '''
 
