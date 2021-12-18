@@ -41,7 +41,7 @@ Download all the pretrained model weights and put them in *./pretrained_model/*
 
 #### Inferencing
 
-Having trained your model, you can use `./inference.py` to test the model on a set of images.
+Having your trained model weight, you can use `./inference.py` to test the model on a set of images.
 For example,
 
 ```
