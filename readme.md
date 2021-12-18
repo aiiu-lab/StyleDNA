@@ -1,9 +1,10 @@
 # StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer
-[pdf]()[codelab](https://colab.research.google.com/drive/1FHf5ftbYtAfvODEqj5lp-S1cir44UniT?usp=sharing&fbclid=IwAR24xfMulbHCGlTAtjp0LP4rPO4IDFj-yY6XtktFv932HstnFYLtCnEHl00#scrollTo=OIGl-19F5VMS)
+
 
 ## Description
 
 This is the official repository of StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer paper.
+[[pdf]]()[[codelab]](https://colab.research.google.com/drive/1FHf5ftbYtAfvODEqj5lp-S1cir44UniT?usp=sharing&fbclid=IwAR24xfMulbHCGlTAtjp0LP4rPO4IDFj-yY6XtktFv932HstnFYLtCnEHl00#scrollTo=OIGl-19F5VMS)
 
 ## Get Started
 
