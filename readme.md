@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the official repository of "[StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer]()" paper.
+This is the official repository of StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer paper.
 
 ## Get Started
 
@@ -74,8 +74,7 @@ We borrow code from
 
 ## Citation
 
-If you use this code for your research, please cite our paper.  
-[StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer]()
+If you use this code for your research, please cite our paper, StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer.
 
 ```
 @inproceedings{lin2021styledna,
