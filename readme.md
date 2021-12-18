@@ -1,4 +1,5 @@
 # StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer
+[pdf]()[codelab](https://colab.research.google.com/drive/1FHf5ftbYtAfvODEqj5lp-S1cir44UniT?usp=sharing&fbclid=IwAR24xfMulbHCGlTAtjp0LP4rPO4IDFj-yY6XtktFv932HstnFYLtCnEHl00#scrollTo=OIGl-19F5VMS)
 
 ## Description
 
@@ -52,7 +53,7 @@ python3 inference.py --mom_path ./test/mom.png --dad_path ./test/dad.png
 
 ## Credits
 
-We borrow code from
+We sincerely thanks for great development from other related projects, and we borrow code from 
  - stylegan2: https://github.com/rosinality/stylegan2-pytorch  
   Copyright (c) 2019 Kim Seonghyeon  
   License (MIT) https://github.com/rosinality/stylegan2-pytorch/blob/master/LICENSE  
@@ -74,7 +75,7 @@ We borrow code from
 
 ## Citation
 
-If you use this code for your research, please cite our paper, StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer.
+If you find this code useful for your research, please cite our paper, StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer.
 
 ```
 @inproceedings{lin2021styledna,
